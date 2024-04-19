@@ -1,0 +1,2 @@
+../Core/Src/segdisp.c:11:6:SegDisp_Init	4	static
+../Core/Src/segdisp.c:15:6:SegDisp_SetNumber	16	static

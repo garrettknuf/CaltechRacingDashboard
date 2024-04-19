@@ -1,0 +1,3 @@
+../Core/Src/hvil.c:12:6:HVIL_Init	4	static
+../Core/Src/hvil.c:16:6:HVIL_GetCurrent	8	static
+../Core/Src/hvil.c:22:6:HVIL_GetFault	8	static

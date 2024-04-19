@@ -1,0 +1,2 @@
+../Core/Src/speaker.c:32:6:Speaker_Init	8	static
+../Core/Src/speaker.c:44:6:Speaker_SetTone	24	static
